@@ -30,11 +30,7 @@ You don't need to install anything locally to play with or modify this codebase.
 If you prefer traditional methods, clone the repository and simply double-click the `index.html` file to launch it instantly in any modern web browser.
 
 ## Project Structure
-
 ```text
-├── .github/
-│   └── workflows/
-│       └── ci.yml        # Basic sanity check workflow
 ├── .gitignore            # Keeps environment junk out of the repo
 ├── index.html            # Semantic markup and recipe structure
 ├── style.css             # Layout calculations and custom checkbox themes
